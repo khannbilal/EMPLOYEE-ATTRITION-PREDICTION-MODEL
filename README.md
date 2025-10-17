@@ -48,8 +48,8 @@ Description: Contains 1,470 employee records with 35 features covering demograph
  Identified highimpact features: JobSatisfaction, MonthlyIncome, OverTime, YearsAtCompany.
  Generated HRfocused insights based on SHAP impact values.
 
- 5. Project Architecture Diagram (Textual)
- 6. 
+# Project Architecture Diagram (Textual)
+
         ┌────────────────────────┐
         │ Employee Data (IBM HR) │
         └──────────┬─────────────┘
